@@ -51,6 +51,8 @@
 - say /.!select > Muestra en un menú a los usuarios para ser seleccionados por los que cortaron (Modo duelo habilitado)
 
 # CVARS
+
+```
 mix_password "1337" > Establece la contraseña del servidor. Por defecto "1337"
 mix_prefix "!g[Mix Ultimate]" > Establece el prefijo del mensaje. Por defecto [Mix Ultimate]
 mix_finish_half "15" > Establece las rondas para que finalicen las mitades. Por defecto 15 rondas
@@ -60,6 +62,7 @@ mix_closed_block_say "1" > Establece si se bloqueará el chat en modo cerrado. P
 mix_closed_block_name "1" > Establece si se bloqueará el cambio de nick en modo cerrado. Por defecto 1
 mix_result "1" > Muestra los resultados del mix en cada ronda. Por defecto 1
 mix_result_type "3" > Establece el tipo de mensaje del resultado en cada ronda. Por defecto 3
+```
 
 # Archivo de configuración (CFG):
 
